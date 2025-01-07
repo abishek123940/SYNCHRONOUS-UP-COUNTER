@@ -53,14 +53,17 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 ![image](https://github.com/user-attachments/assets/f7527964-8052-41f4-8b59-9dd63900a976)
 
 
-**TIMING DIAGRAM:**
 
-![image](https://github.com/user-attachments/assets/542baff0-3244-4756-9934-129edb1b2e76)
 
 
 **TRUTH TABLE:**
 
 ![image](https://github.com/user-attachments/assets/9571a2af-d326-4440-b1ef-dd5a8b7e3e23)
+
+
+**TIMING DIAGRAM:**
+
+![image](https://github.com/user-attachments/assets/542baff0-3244-4756-9934-129edb1b2e76)
 
 
 **RESULT:**
